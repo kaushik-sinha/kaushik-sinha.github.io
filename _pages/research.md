@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Papers"
+title: "### Selected Papers"
 permalink: /research/
 author_profile: true
 redirect_from:
