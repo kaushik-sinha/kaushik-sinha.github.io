@@ -13,4 +13,4 @@ I am an Associate professor in the Electrical Engineering and Computer Science D
 
 Before joining Wichita State, I spent two wonderful years in the Computer Science and Engineering department at University of California San Diego as a Postdoctoral Scholar. My mentors were [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and [Kamalika Chadhuri](http://cseweb.ucsd.edu/~kamalika/).
 
-I received my PhD in Computer Science and Engineering from TheOhio State University. My advisor was [Misha Belkin](http://web.cse.ohio-state.edu/~belkin.8/).
+I received my PhD in Computer Science and Engineering from Ohio State University. My advisor was [Misha Belkin](http://web.cse.ohio-state.edu/~belkin.8/).
