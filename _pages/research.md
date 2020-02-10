@@ -43,8 +43,8 @@ Kamalika Chaudhuri, Anand D Sarwate and Kaushik Sinha<br>
 **NIPS 2012**
 * *Polynomial Learning of Distribution Families*<br>
 Mikhail Belkin and Kaushik Sinha<br>
-**FOCS 2010**</span>
-* *Toward Learning Gaussian Mixtures with Arbitrary Separation* [[PDF] (http://www.learningtheory.org/colt2010/papers/082sinha.pdf)<br>
+**FOCS 2010**
+* *Toward Learning Gaussian Mixtures with Arbitrary Separation* [[PDF]](http://www.learningtheory.org/colt2010/papers/082sinha.pdf)<br>
 Mikhail Belkin and Kaushik Sinha<br>
 **COLT 2010**
 * *Semi-supervised Learning Using Sparse Eigenfunction Bases* [[PDF]](https://papers.nips.cc/paper/3852-semi-supervised-learning-using-sparse-eigenfunction-bases.pdf)<br>
