@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(*For complete list of my publications click here:* [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
+(**_For complete list of my publications click here:_** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
 
 * *Revisiting kd-tree for nearest neighbor search* [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875)<br>
 Parikshit Ram and Kaushik Sinha<br>
