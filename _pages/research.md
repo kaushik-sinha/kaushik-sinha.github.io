@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-(** For complete list of my publications click here:** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
+(**For complete list of my publications click here:** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
 
-* <span style="font-size:0.9em;">*Revisiting kd-tree for nearest neighbor search* [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875),</br>
+* <span style="font-size:0.9em;">*Revisiting kd-tree for nearest neighbor search* [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875),<br>
 Parikshit Ram and Kaushik Sinha,<br>
 **KDD 2019** </span>
 * <span style="font-size:0.9em;">*K-means clustering using random matrix sparsification*, Kaushik Sinha, **ICML 2018** [[PDF]](http://proceedings.mlr.press/v80/sinha18a/sinha18a.pdf)</span>
