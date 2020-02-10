@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
-* ###### Revisiting kd-tree for nearest neighbor search, Parikshit Ram and Kaushik Sinha, **KDD 2019** [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875)
+<span style="font-size:4em;">
+* _Revisiting kd-tree for nearest neighbor search_, Parikshit Ram and Kaushik Sinha, **KDD 2019** [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875)
 * K-means clustering using random matrix sparsification, Kaushik Sinha, **ICML 2018** [[PDF]](http://proceedings.mlr.press/v80/sinha18a/sinha18a.pdf)
 * Improved nearest neighbor search using auxiliary information and priority functions, Omid Keivani and Kaushik Sinha, **ICML 2018** [[PDF]](http://proceedings.mlr.press/v80/keivani18a/keivani18a.pdf)
 * Improved Maximum Inner Product Search with Better Theoretical Guarantees using Randomized Partition Trees, Omid Keivani, Kaushik Sinha * and Parikshit Ram, **Machine Learning** 107 (6), 1069-1094, 2018 [[PDF]](https://link.springer.com/epdf/10.1007/s10994-018-5711-7?author_access_token=Et6KtKsuj7uwxlS3Q7waPfe4RwlQNchNByi7wbcMAY7z_DLO1dOggg-RRe9wxrGSzY7TOwK4ZqGNCoupVn0AHeQPVlHfN2bHTA0dPLV8sZnrgzYeYej7VihUjyMWGOM6ggrlIZkod2J7KMGeXY8HxA%3D%3D)
@@ -25,3 +25,4 @@ redirect_from:
 * Semi-supervised Learning Using Sparse Eigenfunction Bases, Kaushik Sinha and Mikhail Belkin, **NIPS 2009** [[PDF]](https://papers.nips.cc/paper/3852-semi-supervised-learning-using-sparse-eigenfunction-bases.pdf)
 * The Value of Labeled and Unlabeled Examples when The Model is Imperfect, Kaushik Sinha and Mikhail Belkin, **NIPS 2007** [[PDF]](https://papers.nips.cc/paper/3345-the-value-of-labeled-and-unlabeled-examples-when-the-model-is-imperfect.pdf)
 * Simultaneous optimization of complex mining tasks with a knowledgeable cache, Ruoming Jin, Kaushik Sinha, Gagan Agrawal , **KDD 2005.**
+</span>
