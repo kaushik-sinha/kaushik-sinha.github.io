@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pic_florida.jpg"
   bio              : "Wichita State University"
   location         : "Wichita, Kansas"
-  employer         : " Wichita State University"
+  employer         : # " Wichita State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_jAhb40AAAAJ"
   email            :
