@@ -37,7 +37,7 @@ Mikhail Belki and Kaushik Sinha<br>
 **SIAM Journal on Computing** 44 (4), 889-911, 2015
 * *A near-optimal algorithm for differentially-private principal components* [[PDF]](http://www.jmlr.org/papers/volume14/chaudhuri13a/chaudhuri13a.pdf)<br>
 Kamalika Chaudhuri, Anand D Sarwate and Kaushik Sinha<br>
-**Journal of Machine Learning Research** 14(1), 2905-2943, 2013
+**JMLR** 14(1), 2905-2943, 2013
 * *Randomized Partition Trees for Exact Nearest Neighbor Search* [[PDF]](http://proceedings.mlr.press/v30/Dasgupta13.pdf)<br>
 Sanjoy Dasgupta and Kaushik Sinha<br>
 **COLT 2013**
