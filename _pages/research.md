@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-* Revisiting kd-tree for nearest neighbor search, Parikshit Ram and Kaushik Sinha, KDD 2019 [pdf] (https://dl.acm.org/doi/10.1145/3292500.3330875)
-* K-means clustering using random matrix sparsification, Kaushik Sinha, ICML 2018 [pdf]
-* Improved nearest neighbor search using auxiliary information and priority functions, Omid Keivani and Kaushik Sinha, ICML 2018 [pdf]
+* Revisiting kd-tree for nearest neighbor search, Parikshit Ram and Kaushik Sinha, KDD 2019 [pdf](https://dl.acm.org/doi/10.1145/3292500.3330875)
+* K-means clustering using random matrix sparsification, Kaushik Sinha, ICML 2018 [pdf] (http://proceedings.mlr.press/v80/sinha18a/sinha18a.pdf)
+* Improved nearest neighbor search using auxiliary information and priority functions, Omid Keivani and Kaushik Sinha, ICML 2018 [pdf] (http://proceedings.mlr.press/v80/keivani18a/keivani18a.pdf)
 * Improved Maximum Inner Product Search with Better Theoretical Guarantees using Randomized Partition Trees, Omid Keivani, Kaushik Sinha * and Parikshit Ram, Machine Learning. 107 (6), 1069-1094, 2018 [pdf] 
 * Sparse Randomized Partition Trees for Nearest Neighbor Search, Kaushik Sinha and Omid Keivani, AISTATS 2017 [pdf] 
 * Improved Maximum Inner Product Search with Better Theoretical Guarantees, Omid Keivani, Kaushik Sinha and Parikshit Ram, IJCNN 2017
