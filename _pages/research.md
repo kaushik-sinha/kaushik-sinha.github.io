@@ -21,18 +21,38 @@ Kaushik Sinha<br>
 Omid Keivani and Kaushik Sinha<br>
 **ICML 2018**
 * *Improved Maximum Inner Product Search with Better Theoretical Guarantees using Randomized Partition Trees* [[PDF]](https://link.springer.com/epdf/10.1007/s10994-018-5711-7?author_access_token=Et6KtKsuj7uwxlS3Q7waPfe4RwlQNchNByi7wbcMAY7z_DLO1dOggg-RRe9wxrGSzY7TOwK4ZqGNCoupVn0AHeQPVlHfN2bHTA0dPLV8sZnrgzYeYej7VihUjyMWGOM6ggrlIZkod2J7KMGeXY8HxA%3D%3D)<br>
-Omid Keivani, Kaushik Sinha * and Parikshit Ram<br>
+Omid Keivani, Kaushik Sinha and Parikshit Ram<br>
 **Machine Learning** 107 (6), 1069-1094, 2018
 * *Sparse Randomized Partition Trees for Nearest Neighbor Search* [[PDF]](http://proceedings.mlr.press/v54/sinha17a/sinha17a.pdf)<br>
 Kaushik Sinha and Omid Keivani<br>
 **AISTATS 2017**
-* <span style="font-size:0.9em;">*Improved Maximum Inner Product Search with Better Theoretical Guarantees*, Omid Keivani, Kaushik Sinha and Parikshit Ram, **IJCNN 2017**</span>
-* <span style="font-size:0.9em;">*Randomized partition trees for nearest neighbor search*, Sanjoy Dasgupt and Kaushik Sinha, **Algorithmica** 72 (1), 237-263, 2015</span>
-* <span style="font-size:0.9em;">*Polynomial learning of distribution families*, Mikhail Belki and Kaushik Sinha, **SIAM Journal on Computing** 44 (4), 889-911, 2015</span>
-* <span style="font-size:0.9em;">*Randomized Partition Trees for Exact Nearest Neighbor Search*, Sanjoy Dasgupta and Kaushik Sinha, **COLT 2013** [[PDF]](http://proceedings.mlr.press/v30/Dasgupta13.pdf)</span>
-* <span style="font-size:0.9em;">*Near-optimal Differentially Private Principal Components*, Kamalika Chaudhuri, Anand D Sarwate and Kaushik Sinha, **NIPS 2012** [[PDF]](https://papers.nips.cc/paper/4565-near-optimal-differentially-private-principal-components.pdf)</span>
-* <span style="font-size:0.9em;">*Polynomial Learning of Distribution Families*, Mikhail Belkin and Kaushik Sinha, **FOCS 2010**</span>
-* <span style="font-size:0.9em;">*Toward Learning Gaussian Mixtures with Arbitrary Separation*, Mikhail Belkin and Kaushik Sinha, **COLT 2010** [[PDF]](http://www.learningtheory.org/colt2010/papers/082sinha.pdf)</span>
-* <span style="font-size:0.9em;">*Semi-supervised Learning Using Sparse Eigenfunction Bases*, Kaushik Sinha and Mikhail Belkin, **NIPS 2009** [[PDF]](https://papers.nips.cc/paper/3852-semi-supervised-learning-using-sparse-eigenfunction-bases.pdf)</span>
-* <span style="font-size:0.9em;">*The Value of Labeled and Unlabeled Examples when The Model is Imperfect*, Kaushik Sinha and Mikhail Belkin, **NIPS 2007** [[PDF]](https://papers.nips.cc/paper/3345-the-value-of-labeled-and-unlabeled-examples-when-the-model-is-imperfect.pdf)</span>
-* <span style="font-size:0.9em;">*Simultaneous optimization of complex mining tasks with a knowledgeable cache*, Ruoming Jin, Kaushik Sinha, Gagan Agrawal , **KDD 2005.**</span>
+* *Improved Maximum Inner Product Search with Better Theoretical Guarantees*<br>
+Omid Keivani, Kaushik Sinha and Parikshit Ram<br>
+**IJCNN 2017**
+* *Randomized partition trees for nearest neighbor search*<br>
+Sanjoy Dasgupt and Kaushik Sinha<br>
+**Algorithmica** 72 (1), 237-263, 2015
+* *Polynomial learning of distribution families*<br>
+Mikhail Belki and Kaushik Sinha<br>
+**SIAM Journal on Computing** 44 (4), 889-911, 2015
+* *Randomized Partition Trees for Exact Nearest Neighbor Search* [[PDF]](http://proceedings.mlr.press/v30/Dasgupta13.pdf)<br>
+Sanjoy Dasgupta and Kaushik Sinha<br>
+**COLT 2013**
+* *Near-optimal Differentially Private Principal Components*  [[PDF]](https://papers.nips.cc/paper/4565-near-optimal-differentially-private-principal-components.pdf)<br>
+Kamalika Chaudhuri, Anand D Sarwate and Kaushik Sinha<br>
+**NIPS 2012**
+* *Polynomial Learning of Distribution Families*<br>
+Mikhail Belkin and Kaushik Sinha<br>
+**FOCS 2010**</span>
+* *Toward Learning Gaussian Mixtures with Arbitrary Separation* [[PDF] (http://www.learningtheory.org/colt2010/papers/082sinha.pdf)<br>
+Mikhail Belkin and Kaushik Sinha<br>
+**COLT 2010**
+* *Semi-supervised Learning Using Sparse Eigenfunction Bases* [[PDF]](https://papers.nips.cc/paper/3852-semi-supervised-learning-using-sparse-eigenfunction-bases.pdf)<br>
+Kaushik Sinha and Mikhail Belkin<br>
+**NIPS 2009**
+* *The Value of Labeled and Unlabeled Examples when The Model is Imperfect*[[PDF]](https://papers.nips.cc/paper/3345-the-value-of-labeled-and-unlabeled-examples-when-the-model-is-imperfect.pdf)<br>
+Kaushik Sinha and Mikhail Belkin<br>
+**NIPS 2007** 
+* *Simultaneous optimization of complex mining tasks with a knowledgeable cache*<br>
+Ruoming Jin, Kaushik Sinha, Gagan Agrawal<br>
+**KDD 2005.**
