@@ -17,9 +17,15 @@ Parikshit Ram and Kaushik Sinha<br>
 * *K-means clustering using random matrix sparsification* [[PDF]](http://proceedings.mlr.press/v80/sinha18a/sinha18a.pdf)<br>
 Kaushik Sinha<br>
 **ICML 2018**
-* <span style="font-size:0.9em;">*Improved nearest neighbor search using auxiliary information and priority functions*, Omid Keivani and Kaushik Sinha, **ICML 2018** [[PDF]](http://proceedings.mlr.press/v80/keivani18a/keivani18a.pdf)</span>
-* <span style="font-size:0.9em;">*Improved Maximum Inner Product Search with Better Theoretical Guarantees using Randomized Partition Trees*, Omid Keivani, Kaushik Sinha * and Parikshit Ram, **Machine Learning** 107 (6), 1069-1094, 2018 [[PDF]](https://link.springer.com/epdf/10.1007/s10994-018-5711-7?author_access_token=Et6KtKsuj7uwxlS3Q7waPfe4RwlQNchNByi7wbcMAY7z_DLO1dOggg-RRe9wxrGSzY7TOwK4ZqGNCoupVn0AHeQPVlHfN2bHTA0dPLV8sZnrgzYeYej7VihUjyMWGOM6ggrlIZkod2J7KMGeXY8HxA%3D%3D)</span>
-* <span style="font-size:0.9em;">*Sparse Randomized Partition Trees for Nearest Neighbor Search*, Kaushik Sinha and Omid Keivani, **AISTATS 2017** [[PDF]](http://proceedings.mlr.press/v54/sinha17a/sinha17a.pdf)</span>
+* *Improved nearest neighbor search using auxiliary information and priority functions* [[PDF]](http://proceedings.mlr.press/v80/keivani18a/keivani18a.pdf)<br>
+Omid Keivani and Kaushik Sinha<br>
+**ICML 2018**
+* *Improved Maximum Inner Product Search with Better Theoretical Guarantees using Randomized Partition Trees* [[PDF]](https://link.springer.com/epdf/10.1007/s10994-018-5711-7?author_access_token=Et6KtKsuj7uwxlS3Q7waPfe4RwlQNchNByi7wbcMAY7z_DLO1dOggg-RRe9wxrGSzY7TOwK4ZqGNCoupVn0AHeQPVlHfN2bHTA0dPLV8sZnrgzYeYej7VihUjyMWGOM6ggrlIZkod2J7KMGeXY8HxA%3D%3D)<br>
+Omid Keivani, Kaushik Sinha * and Parikshit Ram<br>
+**Machine Learning** 107 (6), 1069-1094, 2018
+* *Sparse Randomized Partition Trees for Nearest Neighbor Search* [[PDF]](http://proceedings.mlr.press/v54/sinha17a/sinha17a.pdf)<br>
+Kaushik Sinha and Omid Keivani<br>
+**AISTATS 2017**
 * <span style="font-size:0.9em;">*Improved Maximum Inner Product Search with Better Theoretical Guarantees*, Omid Keivani, Kaushik Sinha and Parikshit Ram, **IJCNN 2017**</span>
 * <span style="font-size:0.9em;">*Randomized partition trees for nearest neighbor search*, Sanjoy Dasgupt and Kaushik Sinha, **Algorithmica** 72 (1), 237-263, 2015</span>
 * <span style="font-size:0.9em;">*Polynomial learning of distribution families*, Mikhail Belki and Kaushik Sinha, **SIAM Journal on Computing** 44 (4), 889-911, 2015</span>
