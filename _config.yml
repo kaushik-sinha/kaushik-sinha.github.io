@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaushik Sinha"
-  avatar           : "profile_pic_florida.jpg"
+  avatar           : "/assets/images/profile_pic_florida.jpg"
   bio              : "Wichita State University"
   location         : "Wichita, Kansas"
   employer         : # " Wichita State University"
