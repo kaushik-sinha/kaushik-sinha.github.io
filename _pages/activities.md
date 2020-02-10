@@ -12,5 +12,6 @@ redirect_from:
 
 
 * **Associate Editor**
+  * Neurocomputing Journal (2015 to 2017)
 * **Technical Program Committee Member**
 * **Reviewer**
