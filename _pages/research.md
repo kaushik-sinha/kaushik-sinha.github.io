@@ -30,10 +30,10 @@ Kaushik Sinha and Omid Keivani<br>
 Omid Keivani, Kaushik Sinha and Parikshit Ram<br>
 **IJCNN 2017**
 * *Randomized partition trees for nearest neighbor search*<br>
-Sanjoy Dasgupt and Kaushik Sinha<br>
+Sanjoy Dasgupta and Kaushik Sinha<br>
 **Algorithmica** 72 (1), 237-263, 2015
 * *Polynomial learning of distribution families*<br>
-Mikhail Belki and Kaushik Sinha<br>
+Mikhail Belkin and Kaushik Sinha<br>
 **SIAM Journal on Computing** 44 (4), 889-911, 2015
 * *A near-optimal algorithm for differentially-private principal components* [[PDF]](http://www.jmlr.org/papers/volume14/chaudhuri13a/chaudhuri13a.pdf)<br>
 Kamalika Chaudhuri, Anand D Sarwate and Kaushik Sinha<br>
