@@ -15,4 +15,4 @@ Before joining Wichita State, I spent two wonderful years in the Computer Scienc
 
 I received my PhD in Computer Science and Engineering from Ohio State University. My advisor was [Misha Belkin](http://web.cse.ohio-state.edu/~belkin.8/).
 
-I am an affiliated researcher at the Institute of Fundations of Machine Learning [IFML] (https://ml.utexas.edu/ifml).
+I am an affiliated researcher at the Institute of Fundations of Machine Learning [IFML](https://ml.utexas.edu/ifml).
