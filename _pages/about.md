@@ -18,4 +18,4 @@ I received my PhD in Computer Science and Engineering from Ohio State University
 I am an affiliated researcher at the Institute for Fundations of Machine Learning ([IFML](https://ml.utexas.edu/ifml)).
 
 
-[PhD position available](https://github.com/kaushik-sinha/kaushik-sinha.github.io/files/5532085/phd_position_ad.pdf)
+## NEW: [PhD position available](https://github.com/kaushik-sinha/kaushik-sinha.github.io/files/5532085/phd_position_ad.pdf)
