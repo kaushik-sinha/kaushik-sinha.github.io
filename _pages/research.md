@@ -11,7 +11,7 @@ redirect_from:
 
 (**_For complete list of my publications click here:_** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
 
-* * Fruit-fly inspired neighborhood encoding for classification<br>
+* *Fruit-fly inspired neighborhood encoding for classification<br>
 With Pairkshit Ram (details coming soon)<br>
 **KDD 2021**
 
