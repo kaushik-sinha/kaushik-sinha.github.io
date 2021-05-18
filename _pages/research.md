@@ -14,7 +14,6 @@ redirect_from:
 * Fruit-fly inspired neighborhood encoding for classification<br>
 With Pairkshit Ram <br>
 **KDD 2021**
-
 * *Revisiting kd-tree for nearest neighbor search* [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875)<br>
 Parikshit Ram and Kaushik Sinha<br>
 **KDD 2019** 
