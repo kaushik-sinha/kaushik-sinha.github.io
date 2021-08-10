@@ -20,5 +20,5 @@ I am an affiliated researcher at the Institute for Fundations of Machine Learnin
 
 ## NEW:
 <!--1. I have an opening for an MS thesis/project student in my research group starting Fall 2021. Ideal candidate should have already taken Machine Learning/Deep Learning class. Funding for this position is available through Graduate Teaching Assistatship. Interested candidates should email me their resume/cv.-->
-I have immediate opening for several funded PhD positions avilalble in my research group. If interested please email me (kaushik.sinha@wichita.edu) your resume.
+I have immediate opening for several funded PhD positions in my research group. If interested please email me (kaushik.sinha@wichita.edu) your resume.
 <!--[Details here](https://github.com/kaushik-sinha/kaushik-sinha.github.io/files/5541214/phd_position_ad.pdf)-->
