@@ -11,10 +11,10 @@ redirect_from:
 
 (**_For complete list of my publications click here:_** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
 
-* *Federated nearest neighbor classification with a colony of fruit-flies<br>
+* *Federated nearest neighbor classification with a colony of fruit-flies*<br>
 Parikshit Ram and Kaushik Sinha<br>
 **AAAI 2022**
-* *Fruit-fly inspired neighborhood encoding for classification<br>
+* *Fruit-fly inspired neighborhood encoding for classification*<br>
 Kaushik Sinha and Parikshit Ram <br>
 **KDD 2021**
 * *Revisiting kd-tree for nearest neighbor search* [[PDF]](https://dl.acm.org/doi/10.1145/3292500.3330875)<br>
