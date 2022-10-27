@@ -23,5 +23,5 @@ I am an affiliated researcher at the Institute for Fundations of Machine Learnin
 I have immediate opening for several funded PhD positions in my research group. If interested please email me (kaushik.sinha@wichita.edu) your resume.
 <!--[Details here](https://github.com/kaushik-sinha/kaushik-sinha.github.io/files/5541214/phd_position_ad.pdf)-->
 
-
+<br>
 Check out my [Machine Learning Club channel.](https://www.youtube.com/channel/UCwrSg65XVFIihsEh9TN1Ndw)
