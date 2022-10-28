@@ -24,4 +24,4 @@ I have immediate opening for several funded PhD positions in my research group. 
 <!--[Details here](https://github.com/kaushik-sinha/kaushik-sinha.github.io/files/5541214/phd_position_ad.pdf)-->
 
 <br>
-Check out my [Machine Learning Club channel.](https://www.youtube.com/channel/UCwrSg65XVFIihsEh9TN1Ndw)
+Check out my [Machine Learning Club channel.](https://www.youtube.com/@machinelearningclub)
