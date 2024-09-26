@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 (**_For complete list of my publications click here:_** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
+
 * * Non-parametric regression via expand-and-sparsify representation*<br>
 Kaushik Sinha <br>
 **NeurIPS 2024**
