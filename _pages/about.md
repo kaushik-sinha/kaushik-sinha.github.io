@@ -25,7 +25,7 @@ I have opening for two PhD students in my research group starting Fall 2025. The
 1. The first position is in **theoretical mechine learning**, where the goal is to develop and analyze machine learning algorithms and write proof-of-concept Python codes to demonstrate effectiveness such algorithms. The primary focus here is on analysis of algorithms. The ideal candidate for this position should be strong in algorithms and have a strong mathematical and statistical background.
 2. The second position is in **applied machine learning**, where the goal is to develop machine learning algorithms and write Python codes for extensive evaluations of these algorithms. The ideal candidate for this position should be very strong in Python programming and have basic understanding of Algorithms.
 
-If you are interested please send me an email to kaushik.sinha@wichita.edu with the subject line **PhD position in theoretical machine learning, Fall 2025**  or **PhD position in applied machine learning, Fall 2025** as appropriate. Please send your cv/resume, all transcripts and two letters of recommendations.
+If you are interested please send me an email to kaushik.sinha@wichita.edu with the subject line **PhD position in theoretical machine learning, Fall 2025**  or **PhD position in applied machine learning, Fall 2025** as appropriate. Please send your cv/resume, all transcripts and two letters of recommendation.
 <!--[Details here](https://github.com/kaushik-sinha/kaushik-sinha.github.io/files/5541214/phd_position_ad.pdf)-->
 
 <br>
