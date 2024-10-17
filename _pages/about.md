@@ -20,7 +20,7 @@ I am an affiliated researcher at the **Institute for Fundations of Machine Learn
 
 ## NEW:
 <!--1. I have an opening for an MS thesis/project student in my research group starting Fall 2021. Ideal candidate should have already taken Machine Learning/Deep Learning class. Funding for this position is available through Graduate Teaching Assistatship. Interested candidates should email me their resume/cv.-->
-I have opening for two PhD students in my research group starting Fall 2025. The ideal candidate should be proficient in Python programming, have a strong mathematical background, and have a bachelor's or master's degree in **computer science**. 
+I have opening for two PhD students in my research group starting Fall 2025. The ideal candidate should be proficient in Python programming, have a strong mathematical background, and have a bachelor's and master's degree in **computer science**. 
 
 1. The first position is in **theoretical mechine learning**, where the goal is to develop and analyze machine learning algorithms and write proof-of-concept Python codes to demonstrate effectiveness such algorithms. The primary focus here is on analysis of algorithms. The ideal candidate for this position should be strong in algorithms and have a strong mathematical and statistical background.
 2. The second position is in **applied machine learning**, where the goal is to develop machine learning algorithms and write Python codes for extensive evaluations of these algorithms. The ideal candidate for this position should be very strong in Python programming and have basic understanding of Algorithms.
