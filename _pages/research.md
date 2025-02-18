@@ -11,7 +11,7 @@ redirect_from:
 
 (**_For complete list of my publications click here:_** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
 
-* *Non-parametric classification via expand-and-sparsify representation* [[PDF]](https://openreview.net/pdf?id=0d50Il6enG)<br>
+* *Non-parametric classification via expand-and-sparsify representation* [[PDF]](https://papers.nips.cc/paper_files/paper/2024/file/349956dee974cfdcbbb2d06afad5dd4a-Paper-Conference.pdf)<br>
 Kaushik Sinha <br>
 **NeurIPS 2024**
 * *Federated nearest neighbor classification with a colony of fruit-flies*<br>
