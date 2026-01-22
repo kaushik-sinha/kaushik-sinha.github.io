@@ -12,7 +12,7 @@ redirect_from:
 (**_For complete list of my publications click here:_** [Google Scholar](https://scholar.google.com/citations?user=_jAhb40AAAAJ))
 
 * *Optimal rates for density and mode estimation using expand-and-sparsify representations*<br>
-Kaushik Sinha nd Christopher Tosh<br>
+Kaushik Sinha and Christopher Tosh<br>
 **AISTATS 2026**
 * *Non-parametric classification via expand-and-sparsify representation* [[PDF]](https://papers.nips.cc/paper_files/paper/2024/file/349956dee974cfdcbbb2d06afad5dd4a-Paper-Conference.pdf)<br>
 Kaushik Sinha <br>
@@ -71,5 +71,6 @@ Kaushik Sinha and Mikhail Belkin<br>
 * *Simultaneous optimization of complex mining tasks with a knowledgeable cache*<br>
 Ruoming Jin, Kaushik Sinha, Gagan Agrawal<br>
 **KDD 2005.**
+
 
 
