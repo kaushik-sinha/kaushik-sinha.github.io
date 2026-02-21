@@ -13,7 +13,7 @@ I am an Associate Professor in the School of Computing at Wichita State Universi
 
 Before joining Wichita State, I spent two wonderful years in the Computer Science and Engineering department at University of California San Diego as a Postdoctoral Scholar. My mentors were [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and [Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/).
 
-I received my PhD in Computer Science and Engineering from Ohio State University. My advisor was [Misha Belkin](http://web.cse.ohio-state.edu/~belkin.8/).
+I received my PhD in Computer Science and Engineering from Ohio State University. My advisor was [Misha Belkin](http://misha.belkin-wang.org/).
 
 I am an affiliated researcher at the **Institute for Fundations of Machine Learning** ([IFML](https://www.ifml.institute/)).
 
